@@ -129,6 +129,7 @@ async function initializeMap() {
             const summary = stateSummary[abbr];
 
             if (summary) {
+                const [mouseX, mouseY] = d3.pointer(event, document.body);
                 tooltip.classed('visible', true)
                     .html(`
                         <strong>${d.properties.name}</strong>
@@ -137,8 +138,8 @@ async function initializeMap() {
                         <div>Passed: ${summary.passed}</div>
                         <div>Denied: ${summary.denied}</div>
                     `)
-                    .style('left', (event.pageX + 10) + 'px')
-                    .style('top', (event.pageY - 10) + 'px');
+                    .style('left', (mouseX + 10) + 'px')
+                    .style('top', (mouseY - 10) + 'px');
             }
         })
         .on('mouseout', function() {
@@ -246,7 +247,12 @@ function setupTableControls() {
             } else if (statusFilter.value === 'pending') {
                 filtered = filtered.filter(item => item.Passed && item.Passed.toLowerCase().includes('pending'));
             } else if (statusFilter.value === 'denied') {
-                filtered = filtered.filter(item => item['Denied/Vetoed'] && item['Denied/Vetoed'].toLowerCase().includes('yes'));
+                // Show anything that's not passed or pending (includes vetoed, defeated, or failed)
+                filtered = filtered.filter(item => {
+                    const passed = (item.Passed || '').toLowerCase();
+                    const deniedVetoed = (item['Denied/Vetoed'] || '').toLowerCase();
+                    return passed === 'no' || (deniedVetoed !== 'no' && deniedVetoed !== '');
+                });
             }
         }
 
