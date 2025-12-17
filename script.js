@@ -129,7 +129,6 @@ async function initializeMap() {
             const summary = stateSummary[abbr];
 
             if (summary) {
-                const [mouseX, mouseY] = d3.pointer(event, document.body);
                 tooltip.classed('visible', true)
                     .html(`
                         <strong>${d.properties.name}</strong>
@@ -137,9 +136,15 @@ async function initializeMap() {
                         <div>Proposed: ${summary.proposed}</div>
                         <div>Passed: ${summary.passed}</div>
                         <div>Denied: ${summary.denied}</div>
-                    `)
-                    .style('left', (mouseX + 10) + 'px')
-                    .style('top', (mouseY - 10) + 'px');
+                    `);
+            }
+        })
+        .on('mousemove', function(event, d) {
+            const abbr = stateAbbr[d.properties.name];
+            if (stateSummary[abbr]) {
+                tooltip
+                    .style('left', (event.pageX + 10) + 'px')
+                    .style('top', (event.pageY + 10) + 'px');
             }
         })
         .on('mouseout', function() {
