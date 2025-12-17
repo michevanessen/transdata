@@ -1,39 +1,6 @@
 {
   "legislation": [
     {
-      "Legislation": "H.R. 28 - Protection of Women and Girls in Sports Act",
-      "State/Federal": "Federal",
-      "Year": 2025,
-      "Date": "2025-01-14",
-      "Link": "https://www.congress.gov/bill/119th-congress/house-bill/28",
-      "Proposed": "Yes",
-      "Passed": "Yes (House)",
-      "Denied/Vetoed": "No",
-      "Status Notes": "Passed House 218-206 on Jan 14, 2025. Awaiting Senate action."
-    },
-    {
-      "Legislation": "H.R. 3492 - Protect Children's Innocence Act",
-      "State/Federal": "Federal",
-      "Year": 2025,
-      "Date": "2025-12-17",
-      "Link": "https://www.congress.gov/bill/119th-congress/house-bill/3492",
-      "Proposed": "Yes",
-      "Passed": "Pending",
-      "Denied/Vetoed": "No",
-      "Status Notes": "Scheduled for House floor vote Dec 17, 2025. Would criminalize gender-affirming care for minors."
-    },
-    {
-      "Legislation": "H.R. 498 - Do No Harm in Medicaid Act",
-      "State/Federal": "Federal",
-      "Year": 2025,
-      "Date": "2025-12-17",
-      "Link": "https://www.congress.gov/bill/119th-congress/house-bill/498",
-      "Proposed": "Yes",
-      "Passed": "Pending",
-      "Denied/Vetoed": "No",
-      "Status Notes": "Scheduled for House vote Dec 17, 2025. Would ban Medicaid coverage of gender-affirming care for youth."
-    },
-    {
       "Legislation": "S.B. 79 - Single-sex facilities ban",
       "State/Federal": "AL",
       "Year": 2025,
@@ -155,6 +122,39 @@
       "Status Notes": "Vetoed by Gov. Hobbs 2025. Would have erased trans people from legal recognition."
     },
     {
+      "Legislation": "H.R. 28 - Protection of Women and Girls in Sports Act",
+      "State/Federal": "Federal",
+      "Year": 2025,
+      "Date": "2025-01-14",
+      "Link": "https://www.congress.gov/bill/119th-congress/house-bill/28",
+      "Proposed": "Yes",
+      "Passed": "Yes (House)",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed House 218-206 on Jan 14, 2025. Awaiting Senate action."
+    },
+    {
+      "Legislation": "H.R. 3492 - Protect Children's Innocence Act",
+      "State/Federal": "Federal",
+      "Year": 2025,
+      "Date": "2025-12-17",
+      "Link": "https://www.congress.gov/bill/119th-congress/house-bill/3492",
+      "Proposed": "Yes",
+      "Passed": "Pending",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Scheduled for House floor vote Dec 17, 2025. Would criminalize gender-affirming care for minors."
+    },
+    {
+      "Legislation": "H.R. 498 - Do No Harm in Medicaid Act",
+      "State/Federal": "Federal",
+      "Year": 2025,
+      "Date": "2025-12-17",
+      "Link": "https://www.congress.gov/bill/119th-congress/house-bill/498",
+      "Proposed": "Yes",
+      "Passed": "Pending",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Scheduled for House vote Dec 17, 2025. Would ban Medicaid coverage of gender-affirming care for youth."
+    },
+    {
       "Legislation": "S.B. 1 - Facilities and sports ban",
       "State/Federal": "GA",
       "Year": 2025,
@@ -186,6 +186,39 @@
       "Passed": "Yes",
       "Denied/Vetoed": "No",
       "Status Notes": "Allows religious exemptions to deny housing, healthcare, equal pay."
+    },
+    {
+      "Legislation": "S.F. 418 - Comprehensive anti-trans bill",
+      "State/Federal": "IA",
+      "Year": 2025,
+      "Date": null,
+      "Link": "https://www.legis.iowa.gov/legislation/BillBook?ba=SF418&ga=91",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Removes gender identity from antidiscrimination law, bans birth certificate changes, bans instruction through 6th grade."
+    },
+    {
+      "Legislation": "H.F. 1049 - Adult Medicaid ban",
+      "State/Federal": "IA",
+      "Year": 2025,
+      "Date": null,
+      "Link": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=hf1049",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Bans Medicaid from covering gender-affirming care for adults."
+    },
+    {
+      "Legislation": "H.F. 856 - DEI ban",
+      "State/Federal": "IA",
+      "Year": 2025,
+      "Date": null,
+      "Link": "https://legiscan.com/IA/text/HF856/id/3158480",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Bans DEI programs at public institutions."
     },
     {
       "Legislation": "H.B. 264 - Facilities ban (prisons, colleges, shelters)",
@@ -285,39 +318,6 @@
       "Passed": "Yes",
       "Denied/Vetoed": "No",
       "Status Notes": "Classifies parents denying youth gender-affirming care as non-abusive."
-    },
-    {
-      "Legislation": "S.F. 418 - Comprehensive anti-trans bill",
-      "State/Federal": "IA",
-      "Year": 2025,
-      "Date": null,
-      "Link": "https://www.legis.iowa.gov/legislation/BillBook?ba=SF418&ga=91",
-      "Proposed": "Yes",
-      "Passed": "Yes",
-      "Denied/Vetoed": "No",
-      "Status Notes": "Removes gender identity from antidiscrimination law, bans birth certificate changes, bans instruction through 6th grade."
-    },
-    {
-      "Legislation": "H.F. 1049 - Adult Medicaid ban",
-      "State/Federal": "IA",
-      "Year": 2025,
-      "Date": null,
-      "Link": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=hf1049",
-      "Proposed": "Yes",
-      "Passed": "Yes",
-      "Denied/Vetoed": "No",
-      "Status Notes": "Bans Medicaid from covering gender-affirming care for adults."
-    },
-    {
-      "Legislation": "H.F. 856 - DEI ban",
-      "State/Federal": "IA",
-      "Year": 2025,
-      "Date": null,
-      "Link": "https://legiscan.com/IA/text/HF856/id/3158480",
-      "Proposed": "Yes",
-      "Passed": "Yes",
-      "Denied/Vetoed": "No",
-      "Status Notes": "Bans DEI programs at public institutions."
     },
     {
       "Legislation": "S.B. 63 - Youth healthcare ban",
@@ -901,104 +901,1259 @@
       "Passed": "Yes",
       "Denied/Vetoed": "No",
       "Status Notes": "Allows religious exemptions to deny housing, healthcare, equal pay."
+    },
+    {
+      "Legislation": "AL HB261 - Sports - Prohibits biological males from athletic teams for females",
+      "State/Federal": "AL",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Sports - Prohibits biological males from athletic teams for females"
+    },
+    {
+      "Legislation": "AL SB261 - Government contracts protection",
+      "State/Federal": "AL",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Government contracts protection"
+    },
+    {
+      "Legislation": "AR HB1156 - Public school student sex policies - bathrooms",
+      "State/Federal": "AR",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Public school student sex policies - bathrooms"
+    },
+    {
+      "Legislation": "AR HB1468 - Given Name Act - restricts pronouns without parental consent",
+      "State/Federal": "AR",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Given Name Act - restricts pronouns without parental consent"
+    },
+    {
+      "Legislation": "AR HB1615 - Conscience Protection Act",
+      "State/Federal": "AR",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Conscience Protection Act"
+    },
+    {
+      "Legislation": "AR SB125 - Free speech at higher education",
+      "State/Federal": "AR",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Free speech at higher education"
+    },
+    {
+      "Legislation": "AR SB199 - Protecting Minors From Medical Malpractice Act",
+      "State/Federal": "AR",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Protecting Minors From Medical Malpractice Act"
+    },
+    {
+      "Legislation": "AR SB270 - Bathroom access - criminal amendments",
+      "State/Federal": "AR",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Bathroom access - criminal amendments"
+    },
+    {
+      "Legislation": "AR SB294 - LEARNS Act - education restrictions",
+      "State/Federal": "AR",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. LEARNS Act - education restrictions"
+    },
+    {
+      "Legislation": "AR SB43 - Adult-oriented performance restrictions",
+      "State/Federal": "AR",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Adult-oriented performance restrictions"
+    },
+    {
+      "Legislation": "FL H1069 - Defines sex; revises instruction on reproductive health",
+      "State/Federal": "FL",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Defines sex; revises instruction on reproductive health"
+    },
+    {
+      "Legislation": "FL H1521 - Restroom and facility access based on sex",
+      "State/Federal": "FL",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Restroom and facility access based on sex"
+    },
+    {
+      "Legislation": "FL S0254 - Prohibits sex-reassignment procedures for minors",
+      "State/Federal": "FL",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Prohibits sex-reassignment procedures for minors"
+    },
+    {
+      "Legislation": "FL S0266 - Higher education board duties",
+      "State/Federal": "FL",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Higher education board duties"
+    },
+    {
+      "Legislation": "FL S1382 - Defense personnel recruitment principles",
+      "State/Federal": "FL",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Defense personnel recruitment principles"
+    },
+    {
+      "Legislation": "GA SB140 - Prohibits surgical procedures for gender dysphoria in minors",
+      "State/Federal": "GA",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Prohibits surgical procedures for gender dysphoria in minors"
+    },
+    {
+      "Legislation": "IA SF482 - Restroom access based on biological sex",
+      "State/Federal": "IA",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Restroom access based on biological sex"
+    },
+    {
+      "Legislation": "IA SF496 - Parental rights; prohibits gender identity instruction K-6",
+      "State/Federal": "IA",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Parental rights; prohibits gender identity instruction K-6"
+    },
+    {
+      "Legislation": "IA SF538 - Restricts gender transition procedures for minors",
+      "State/Federal": "IA",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Restricts gender transition procedures for minors"
+    },
+    {
+      "Legislation": "ID H0071 - Vulnerable Child Protection Act",
+      "State/Federal": "ID",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Vulnerable Child Protection Act"
+    },
+    {
+      "Legislation": "ID S1016 - Restroom access for public works contractors",
+      "State/Federal": "ID",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Restroom access for public works contractors"
+    },
+    {
+      "Legislation": "ID S1100 - Privacy standards in public schools - bathrooms",
+      "State/Federal": "ID",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Privacy standards in public schools - bathrooms"
+    },
+    {
+      "Legislation": "IN HB1569 - Corrections restrictions on gender therapy",
+      "State/Federal": "IN",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Corrections restrictions on gender therapy"
+    },
+    {
+      "Legislation": "IN HB1608 - No sexuality instruction pre-K-3; parental notification",
+      "State/Federal": "IN",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. No sexuality instruction pre-K-3; parental notification"
+    },
+    {
+      "Legislation": "IN SB0480 - Prohibits gender transition for minors",
+      "State/Federal": "IN",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Prohibits gender transition for minors"
+    },
+    {
+      "Legislation": "KS HB2100 - Public Investments and Contracts Protection",
+      "State/Federal": "KS",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Public Investments and Contracts Protection"
+    },
+    {
+      "Legislation": "KS HB2138 - Separate accommodations by biological sex on trips",
+      "State/Federal": "KS",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Separate accommodations by biological sex on trips"
+    },
+    {
+      "Legislation": "KS HB2238 - Fairness in Women's Sports Act",
+      "State/Federal": "KS",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Fairness in Women's Sports Act"
+    },
+    {
+      "Legislation": "KS SB180 - Women's Bill of Rights - defines biological sex",
+      "State/Federal": "KS",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Women's Bill of Rights - defines biological sex"
+    },
+    {
+      "Legislation": "KS SB228 - County jail provisions",
+      "State/Federal": "KS",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. County jail provisions"
+    },
+    {
+      "Legislation": "KY SB145 - Interscholastic athletics eligibility",
+      "State/Federal": "KY",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Interscholastic athletics eligibility"
+    },
+    {
+      "Legislation": "KY SB150 - Parental notifications; pronoun restrictions",
+      "State/Federal": "KY",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Parental notifications; pronoun restrictions"
+    },
+    {
+      "Legislation": "LA HB648 - Prohibits procedures to alter sex of minors",
+      "State/Federal": "LA",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Prohibits procedures to alter sex of minors"
+    },
+    {
+      "Legislation": "MO HB15 - Appropriation bill with anti-trans provisions",
+      "State/Federal": "MO",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Appropriation bill with anti-trans provisions"
+    },
+    {
+      "Legislation": "MO SB39 - Student athletic participation by sex",
+      "State/Federal": "MO",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Student athletic participation by sex"
+    },
+    {
+      "Legislation": "MO SB49 - Missouri SAFE Act - healthcare restrictions",
+      "State/Federal": "MO",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Missouri SAFE Act - healthcare restrictions"
+    },
+    {
+      "Legislation": "MS HB1125 - REAP Act - regulates transgender procedures for minors",
+      "State/Federal": "MS",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. REAP Act - regulates transgender procedures for minors"
+    },
+    {
+      "Legislation": "MT HB234 - Obscene material dissemination laws",
+      "State/Federal": "MT",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Obscene material dissemination laws"
+    },
+    {
+      "Legislation": "MT HB303 - Medical Ethics and Diversity Act",
+      "State/Federal": "MT",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Medical Ethics and Diversity Act"
+    },
+    {
+      "Legislation": "MT HB359 - Prohibits minors from attending drag shows",
+      "State/Federal": "MT",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Prohibits minors from attending drag shows"
+    },
+    {
+      "Legislation": "MT HB361 - Name and sex usage not discrimination",
+      "State/Federal": "MT",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Name and sex usage not discrimination"
+    },
+    {
+      "Legislation": "MT SB458 - Defines sex in Montana law",
+      "State/Federal": "MT",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Defines sex in Montana law"
+    },
+    {
+      "Legislation": "MT SB518 - Parental involvement in education",
+      "State/Federal": "MT",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Parental involvement in education"
+    },
+    {
+      "Legislation": "MT SB99 - Youth Health Protection Act",
+      "State/Federal": "MT",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Youth Health Protection Act"
+    },
+    {
+      "Legislation": "NC H574 - Fairness in Women's Sports Act",
+      "State/Federal": "NC",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Fairness in Women's Sports Act"
+    },
+    {
+      "Legislation": "NC H808 - Gender transition restrictions for minors",
+      "State/Federal": "NC",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Gender transition restrictions for minors"
+    },
+    {
+      "Legislation": "NC S49 - Parents' Bill of Rights",
+      "State/Federal": "NC",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Parents' Bill of Rights"
+    },
+    {
+      "Legislation": "ND HB1139 - Required elements of birth records",
+      "State/Federal": "ND",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Required elements of birth records"
+    },
+    {
+      "Legislation": "ND HB1205 - Libraries restrict explicit sexual material",
+      "State/Federal": "ND",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Libraries restrict explicit sexual material"
+    },
+    {
+      "Legislation": "ND HB1249 - Athletic teams designated by sex",
+      "State/Federal": "ND",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Athletic teams designated by sex"
+    },
+    {
+      "Legislation": "ND HB1254 - Prohibition of practices against minors - healthcare",
+      "State/Federal": "ND",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Prohibition of practices against minors - healthcare"
+    },
+    {
+      "Legislation": "ND HB1297 - Birth record corrections/amendments",
+      "State/Federal": "ND",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Birth record corrections/amendments"
+    },
+    {
+      "Legislation": "ND HB1333 - Adult-oriented performance restrictions",
+      "State/Federal": "ND",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Adult-oriented performance restrictions"
+    },
+    {
+      "Legislation": "ND HB1473 - Restroom/locker room use by sex",
+      "State/Federal": "ND",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Restroom/locker room use by sex"
+    },
+    {
+      "Legislation": "ND HB1474 - Defines female, male, and sex",
+      "State/Federal": "ND",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Defines female, male, and sex"
+    },
+    {
+      "Legislation": "ND HB1489 - Higher ed athletic designations by sex",
+      "State/Federal": "ND",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Higher ed athletic designations by sex"
+    },
+    {
+      "Legislation": "ND HB1522 - Preferred pronouns restrictions",
+      "State/Federal": "ND",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Preferred pronouns restrictions"
+    },
+    {
+      "Legislation": "ND HCR3010 - Urges schools to distinguish by biological sex",
+      "State/Federal": "ND",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Urges schools to distinguish by biological sex"
+    },
+    {
+      "Legislation": "NE LB574 - Let Them Grow Act and Preborn Child Protection",
+      "State/Federal": "NE",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Let Them Grow Act and Preborn Child Protection"
+    },
+    {
+      "Legislation": "OK SB26 - School restroom/changing area designations",
+      "State/Federal": "OK",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. School restroom/changing area designations"
+    },
+    {
+      "Legislation": "OK SB404 - Oklahoma Religious Freedom Act",
+      "State/Federal": "OK",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Oklahoma Religious Freedom Act"
+    },
+    {
+      "Legislation": "OK SB613 - Prohibits gender transition for children",
+      "State/Federal": "OK",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Prohibits gender transition for children"
+    },
+    {
+      "Legislation": "SD HB1080 - Prohibits medical/surgical interventions on minors",
+      "State/Federal": "SD",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Prohibits medical/surgical interventions on minors"
+    },
+    {
+      "Legislation": "TN HB0001 - Prohibits medical procedures enabling inconsistent identity",
+      "State/Federal": "TN",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Prohibits medical procedures enabling inconsistent identity"
+    },
+    {
+      "Legislation": "TN HB0009 - Adult cabaret performances viewable by minors offense",
+      "State/Federal": "TN",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Adult cabaret performances viewable by minors offense"
+    },
+    {
+      "Legislation": "TN HB0239 - Adds 'sex' as defined statutory term",
+      "State/Federal": "TN",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Adds 'sex' as defined statutory term"
+    },
+    {
+      "Legislation": "TN HB0306 - Private school athletic participation by biological sex",
+      "State/Federal": "TN",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Private school athletic participation by biological sex"
+    },
+    {
+      "Legislation": "TN HB0727 - Parental consent for school activities",
+      "State/Federal": "TN",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Parental consent for school activities"
+    },
+    {
+      "Legislation": "TN HB1269 - Teachers not required to use preferred pronouns",
+      "State/Federal": "TN",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Teachers not required to use preferred pronouns"
+    },
+    {
+      "Legislation": "TN SB0001 - Prohibits medical procedures for gender transition",
+      "State/Federal": "TN",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Prohibits medical procedures for gender transition"
+    },
+    {
+      "Legislation": "TX SB14 - Gender-affirming care restrictions for minors",
+      "State/Federal": "TX",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Gender-affirming care restrictions for minors"
+    },
+    {
+      "Legislation": "TX SB15 - Sports participation restrictions",
+      "State/Federal": "TX",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Sports participation restrictions"
+    },
+    {
+      "Legislation": "TX HB1686 - Parental rights and school policies",
+      "State/Federal": "TX",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Parental rights and school policies"
+    },
+    {
+      "Legislation": "UT HB257 - Gender transition modifications for minors",
+      "State/Federal": "UT",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Gender transition modifications for minors"
+    },
+    {
+      "Legislation": "UT SB16 - Sensitive materials in schools",
+      "State/Federal": "UT",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Sensitive materials in schools"
+    },
+    {
+      "Legislation": "UT SB93 - School restroom and locker room amendments",
+      "State/Federal": "UT",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. School restroom and locker room amendments"
+    },
+    {
+      "Legislation": "WI AB377 - Gender transition medical intervention for under 18",
+      "State/Federal": "WI",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Gender transition medical intervention for under 18"
+    },
+    {
+      "Legislation": "WV HB3042 - Save Women's Sports Bill",
+      "State/Federal": "WV",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Save Women's Sports Bill"
+    },
+    {
+      "Legislation": "WV SB252 - Prohibited medical procedures for minors",
+      "State/Federal": "WV",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Prohibited medical procedures for minors"
+    },
+    {
+      "Legislation": "WY SF0111 - Gender-affirming care classified as child abuse",
+      "State/Federal": "WY",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. Gender-affirming care classified as child abuse"
+    },
+    {
+      "Legislation": "WY HB0004 - School bathroom access restrictions",
+      "State/Federal": "WY",
+      "Year": 2023,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2023. School bathroom access restrictions"
+    },
+    {
+      "Legislation": "AL SB184 - Vulnerable Child Compassion and Protection Act - healthcare restrictions",
+      "State/Federal": "AL",
+      "Year": 2022,
+      "Date": "2022-04-08",
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2022. Vulnerable Child Compassion and Protection Act - healthcare restrictions"
+    },
+    {
+      "Legislation": "AL HB322 - Parental Rights in Education",
+      "State/Federal": "AL",
+      "Year": 2022,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2022. Parental Rights in Education"
+    },
+    {
+      "Legislation": "AZ SB1138 - Gender transition prohibition - healthcare",
+      "State/Federal": "AZ",
+      "Year": 2022,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2022. Gender transition prohibition - healthcare"
+    },
+    {
+      "Legislation": "AZ HB2161 - Parental Rights",
+      "State/Federal": "AZ",
+      "Year": 2022,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2022. Parental Rights"
+    },
+    {
+      "Legislation": "AZ SB1399 - Religious Exemptions for discrimination",
+      "State/Federal": "AZ",
+      "Year": 2022,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2022. Religious Exemptions for discrimination"
+    },
+    {
+      "Legislation": "FL H1557 - Parental Rights in Education (Don't Say Gay)",
+      "State/Federal": "FL",
+      "Year": 2022,
+      "Date": "2022-03-28",
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2022. Parental Rights in Education (Don't Say Gay)"
+    },
+    {
+      "Legislation": "GA HB1084 - Save Women's Sports Act",
+      "State/Federal": "GA",
+      "Year": 2022,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2022. Save Women's Sports Act"
+    },
+    {
+      "Legislation": "IA HF2416 - Save Women's Sports Act",
+      "State/Federal": "IA",
+      "Year": 2022,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2022. Save Women's Sports Act"
+    },
+    {
+      "Legislation": "IN HB1041 - Fairness in Women's Sports",
+      "State/Federal": "IN",
+      "Year": 2022,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2022. Fairness in Women's Sports"
+    },
+    {
+      "Legislation": "KY SB83 - Fairness in Women's Sports Act",
+      "State/Federal": "KY",
+      "Year": 2022,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2022. Fairness in Women's Sports Act"
+    },
+    {
+      "Legislation": "LA SB44 - Fairness in Women's Sports Act",
+      "State/Federal": "LA",
+      "Year": 2022,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2022. Fairness in Women's Sports Act"
+    },
+    {
+      "Legislation": "LA HR158 - Gender-altering care study",
+      "State/Federal": "LA",
+      "Year": 2022,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2022. Gender-altering care study"
+    },
+    {
+      "Legislation": "OK SB2 - Save Women's Sports Act",
+      "State/Federal": "OK",
+      "Year": 2022,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2022. Save Women's Sports Act"
+    },
+    {
+      "Legislation": "OK SB1100 - Birth certificate restrictions - non-binary ban",
+      "State/Federal": "OK",
+      "Year": 2022,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2022. Birth certificate restrictions - non-binary ban"
+    },
+    {
+      "Legislation": "SC H4608 - Save Women's Sports Act",
+      "State/Federal": "SC",
+      "Year": 2022,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2022. Save Women's Sports Act"
+    },
+    {
+      "Legislation": "SD SB46 - Fairness in Women's Sports",
+      "State/Federal": "SD",
+      "Year": 2022,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2022. Fairness in Women's Sports"
+    },
+    {
+      "Legislation": "TN HB2316 - Sports participation restrictions",
+      "State/Federal": "TN",
+      "Year": 2022,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2022. Sports participation restrictions"
+    },
+    {
+      "Legislation": "UT HB0011 - Transgender student participation restrictions",
+      "State/Federal": "UT",
+      "Year": 2022,
+      "Date": null,
+      "Link": "",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Passed in 2022. Transgender student participation restrictions"
+    },
+    {
+      "Legislation": "AR HB1570 - SAFE Act",
+      "State/Federal": "AR",
+      "Year": 2021,
+      "Date": "2021-04-01",
+      "Link": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1570&ddBienniumSession=2021%2F2021R",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "Vetoed (Override)",
+      "Status Notes": "Vetoed by Governor Hutchinson in April 2021, but veto was overridden. First state to ban gender-affirming medical care for minors."
+    },
+    {
+      "Legislation": "AR - Fairness in Women's Sports Act",
+      "State/Federal": "AR",
+      "Year": 2021,
+      "Date": "2021-03-01",
+      "Link": "https://www.arkleg.state.ar.us/",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Signed March 2021. Bans transgender girls from sports that align with their gender identity, elementary through college."
+    },
+    {
+      "Legislation": "MS - Mississippi Fairness Act",
+      "State/Federal": "MS",
+      "Year": 2021,
+      "Date": "2021-03-11",
+      "Link": "https://www.ms.gov/",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Signed March 11, 2021. First statewide anti-trans law of 2021. Bans transgender girls and women from competing in women's sports."
+    },
+    {
+      "Legislation": "TN - Anti-trans sports bill",
+      "State/Federal": "TN",
+      "Year": 2021,
+      "Date": "2021-03-01",
+      "Link": "https://www.tn.gov/",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Signed March 2021. Requires students to prove assigned sex at birth to play in middle and high school sports."
+    },
+    {
+      "Legislation": "ID HB500 - Fairness in Women's Sports Act",
+      "State/Federal": "ID",
+      "Year": 2020,
+      "Date": "2020-03-16",
+      "Link": "https://legislature.idaho.gov/sessioninfo/2020/legislation/H0500/",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Signed March 2020. Banned transgender girls and women from competing in women's sports. Later blocked by federal court injunction in August 2020."
+    },
+    {
+      "Legislation": "ID - Birth certificate gender marker ban",
+      "State/Federal": "ID",
+      "Year": 2020,
+      "Date": "2020-03-01",
+      "Link": "https://www.nbcnews.com/feature/nbc-out/idaho-governor-signs-law-anti-transgender-legislation-n1172886",
+      "Proposed": "Yes",
+      "Passed": "Yes",
+      "Denied/Vetoed": "No",
+      "Status Notes": "Prohibited transgender people from changing sex on birth certificates. Struck down by federal court as unconstitutional."
     }
   ],
   "stateSummary": {
+    "AL": {
+      "total": 5,
+      "proposed": 5,
+      "passed": 5,
+      "denied": 0
+    },
+    "AR": {
+      "total": 16,
+      "proposed": 16,
+      "passed": 16,
+      "denied": 1
+    },
+    "AZ": {
+      "total": 7,
+      "proposed": 7,
+      "passed": 3,
+      "denied": 4
+    },
     "Federal": {
       "total": 3,
       "proposed": 3,
       "passed": 1,
       "denied": 0
     },
-    "AL": {
-      "total": 1,
-      "proposed": 1,
-      "passed": 1,
-      "denied": 0
-    },
-    "AR": {
-      "total": 6,
-      "proposed": 6,
-      "passed": 6,
-      "denied": 0
-    },
-    "AZ": {
-      "total": 4,
-      "proposed": 4,
-      "passed": 0,
-      "denied": 0
-    },
     "GA": {
-      "total": 3,
-      "proposed": 3,
-      "passed": 3,
+      "total": 5,
+      "proposed": 5,
+      "passed": 5,
       "denied": 0
     },
-    "ID": {
+    "IA": {
       "total": 7,
       "proposed": 7,
       "passed": 7,
       "denied": 0
     },
+    "ID": {
+      "total": 12,
+      "proposed": 12,
+      "passed": 12,
+      "denied": 0
+    },
     "IN": {
-      "total": 2,
-      "proposed": 2,
-      "passed": 2,
-      "denied": 0
-    },
-    "IA": {
-      "total": 3,
-      "proposed": 3,
-      "passed": 3,
-      "denied": 0
-    },
-    "KS": {
-      "total": 2,
-      "proposed": 2,
-      "passed": 2,
-      "denied": 0
-    },
-    "KY": {
-      "total": 4,
-      "proposed": 4,
-      "passed": 4,
-      "denied": 0
-    },
-    "LA": {
-      "total": 1,
-      "proposed": 1,
-      "passed": 1,
-      "denied": 0
-    },
-    "MS": {
-      "total": 1,
-      "proposed": 1,
-      "passed": 1,
-      "denied": 0
-    },
-    "MT": {
       "total": 6,
       "proposed": 6,
       "passed": 6,
       "denied": 0
     },
-    "NC": {
-      "total": 5,
-      "proposed": 5,
-      "passed": 2,
+    "KS": {
+      "total": 7,
+      "proposed": 7,
+      "passed": 7,
       "denied": 0
     },
+    "KY": {
+      "total": 7,
+      "proposed": 7,
+      "passed": 7,
+      "denied": 0
+    },
+    "LA": {
+      "total": 4,
+      "proposed": 4,
+      "passed": 4,
+      "denied": 0
+    },
+    "MS": {
+      "total": 3,
+      "proposed": 3,
+      "passed": 3,
+      "denied": 0
+    },
+    "MT": {
+      "total": 13,
+      "proposed": 13,
+      "passed": 13,
+      "denied": 0
+    },
+    "NC": {
+      "total": 8,
+      "proposed": 8,
+      "passed": 5,
+      "denied": 4
+    },
     "ND": {
-      "total": 1,
-      "proposed": 1,
-      "passed": 1,
+      "total": 12,
+      "proposed": 12,
+      "passed": 12,
       "denied": 0
     },
     "NH": {
       "total": 3,
       "proposed": 3,
       "passed": 2,
-      "denied": 0
+      "denied": 1
     },
     "NV": {
       "total": 1,
@@ -1007,45 +2162,75 @@
       "denied": 0
     },
     "OK": {
+      "total": 8,
+      "proposed": 8,
+      "passed": 8,
+      "denied": 0
+    },
+    "SD": {
       "total": 3,
       "proposed": 3,
       "passed": 3,
       "denied": 0
     },
-    "SD": {
+    "TN": {
+      "total": 12,
+      "proposed": 12,
+      "passed": 12,
+      "denied": 0
+    },
+    "TX": {
+      "total": 9,
+      "proposed": 9,
+      "passed": 8,
+      "denied": 1
+    },
+    "UT": {
+      "total": 9,
+      "proposed": 9,
+      "passed": 9,
+      "denied": 0
+    },
+    "WV": {
+      "total": 6,
+      "proposed": 6,
+      "passed": 6,
+      "denied": 0
+    },
+    "WY": {
+      "total": 9,
+      "proposed": 9,
+      "passed": 9,
+      "denied": 0
+    },
+    "FL": {
+      "total": 6,
+      "proposed": 6,
+      "passed": 6,
+      "denied": 0
+    },
+    "MO": {
+      "total": 3,
+      "proposed": 3,
+      "passed": 3,
+      "denied": 0
+    },
+    "NE": {
       "total": 1,
       "proposed": 1,
       "passed": 1,
       "denied": 0
     },
-    "TN": {
-      "total": 3,
-      "proposed": 3,
-      "passed": 3,
+    "WI": {
+      "total": 1,
+      "proposed": 1,
+      "passed": 1,
       "denied": 0
     },
-    "TX": {
-      "total": 6,
-      "proposed": 6,
-      "passed": 5,
-      "denied": 0
-    },
-    "UT": {
-      "total": 5,
-      "proposed": 5,
-      "passed": 5,
-      "denied": 0
-    },
-    "WV": {
-      "total": 4,
-      "proposed": 4,
-      "passed": 4,
-      "denied": 0
-    },
-    "WY": {
-      "total": 7,
-      "proposed": 7,
-      "passed": 7,
+    "SC": {
+      "total": 1,
+      "proposed": 1,
+      "passed": 1,
       "denied": 0
     }
   },
