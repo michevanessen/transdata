@@ -41,11 +41,16 @@ def extract_date(status_notes):
 
     return None
 
-# Extract dates and add to DataFrame
-df['Date'] = df['Status Notes'].apply(extract_date)
+# Extract dates and add to DataFrame (if Date column doesn't exist)
+if 'Date' not in df.columns:
+    df['Date'] = df['Status Notes'].apply(extract_date)
 
-# Reorder columns to put Date after State/Federal
-columns = ['Legislation', 'State/Federal', 'Date', 'Link', 'Proposed', 'Passed', 'Denied/Vetoed', 'Status Notes']
+# Add Year column if it doesn't exist (default to current year for new entries)
+if 'Year' not in df.columns:
+    df['Year'] = 2025
+
+# Reorder columns
+columns = ['Legislation', 'State/Federal', 'Year', 'Date', 'Link', 'Proposed', 'Passed', 'Denied/Vetoed', 'Status Notes']
 df = df[columns]
 
 # Save updated Excel file

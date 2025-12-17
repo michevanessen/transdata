@@ -171,6 +171,20 @@ function initializeTable() {
 
 // Populate filter dropdowns
 function populateFilters() {
+    // Populate year filter
+    const yearFilter = document.getElementById('year-filter');
+    const years = [...new Set(legislationData.map(item => item.Year))]
+        .filter(year => year)
+        .sort((a, b) => b - a); // Sort descending (newest first)
+
+    years.forEach(year => {
+        const option = document.createElement('option');
+        option.value = year;
+        option.textContent = year;
+        yearFilter.appendChild(option);
+    });
+
+    // Populate state filter
     const stateFilter = document.getElementById('state-filter');
     const states = [...new Set(legislationData.map(item => item['State/Federal']))]
         .sort()
@@ -194,6 +208,7 @@ function renderTable(filteredData = legislationData) {
         <tr>
             <td><a href="${item.Link}" target="_blank">${item.Legislation}</a></td>
             <td>${stateNames[item['State/Federal']] || item['State/Federal']}</td>
+            <td>${item.Year || '-'}</td>
             <td>${item.Date ? formatDate(item.Date) : '-'}</td>
             <td>${item.Proposed}</td>
             <td>${item.Passed}</td>
@@ -205,12 +220,18 @@ function renderTable(filteredData = legislationData) {
 
 // Setup table controls
 function setupTableControls() {
+    const yearFilter = document.getElementById('year-filter');
     const stateFilter = document.getElementById('state-filter');
     const statusFilter = document.getElementById('status-filter');
     const searchInput = document.getElementById('search-input');
 
     const applyFilters = () => {
         let filtered = [...legislationData];
+
+        // Year filter
+        if (yearFilter.value) {
+            filtered = filtered.filter(item => item.Year == yearFilter.value);
+        }
 
         // State filter
         if (stateFilter.value) {
@@ -245,6 +266,7 @@ function setupTableControls() {
         renderTable(filtered);
     };
 
+    yearFilter.addEventListener('change', applyFilters);
     stateFilter.addEventListener('change', applyFilters);
     statusFilter.addEventListener('change', applyFilters);
     searchInput.addEventListener('input', applyFilters);
@@ -264,6 +286,7 @@ function sortTable(column) {
     const columnMap = {
         'legislation': 'Legislation',
         'state': 'State/Federal',
+        'year': 'Year',
         'date': 'Date',
         'proposed': 'Proposed',
         'passed': 'Passed',

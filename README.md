@@ -26,6 +26,7 @@ An interactive web application for tracking proposed and enacted anti-trans legi
 
 ### Table View
 - Sortable columns (click headers to sort)
+- Filter by year (2020-2025+)
 - Filter by state (dropdown)
 - Filter by status (Passed, Pending, Denied)
 - Search functionality across legislation and status notes
@@ -87,17 +88,32 @@ Other options:
 
 ## Updating Data
 
-To update the data:
+**For detailed instructions, see [README_UPDATES.md](README_UPDATES.md)**
 
-1. Update the Excel file: `anti_trans_legislation_2025.xlsx`
+### Quick Update:
+
+1. Edit `anti_trans_legislation_2025_with_dates.xlsx` (add/modify rows)
 2. Run the processing script:
    ```bash
    python3 process_legislation.py
    ```
-3. This will regenerate:
-   - `anti_trans_legislation_2025_with_dates.xlsx` (Excel with dates)
-   - `legislation_data.json` (data for website)
-4. Redeploy the website with updated files
+3. Push to GitHub:
+   ```bash
+   git add .
+   git commit -m "Update legislation data"
+   git push origin main
+   ```
+
+### Easy Update Options:
+- **Excel**: Edit the file directly
+- **Google Sheets**: Edit online, sync with one command
+- **Bulk Import**: Import from tracking sites
+
+See [README_UPDATES.md](README_UPDATES.md) for complete guide including:
+- Adding historical data (2020-2024)
+- Google Sheets integration
+- Team collaboration workflow
+- Data sources and best practices
 
 ## Browser Compatibility
 

@@ -52,6 +52,12 @@
         <div id="table-view" class="view-content">
             <div class="table-controls">
                 <div class="filter-group">
+                    <label for="year-filter">Filter by Year:</label>
+                    <select id="year-filter">
+                        <option value="">All Years</option>
+                    </select>
+                </div>
+                <div class="filter-group">
                     <label for="state-filter">Filter by State:</label>
                     <select id="state-filter">
                         <option value="">All States</option>
@@ -78,6 +84,7 @@
                         <tr>
                             <th data-sort="legislation">Legislation <span class="sort-icon"></span></th>
                             <th data-sort="state">State <span class="sort-icon"></span></th>
+                            <th data-sort="year">Year <span class="sort-icon"></span></th>
                             <th data-sort="date">Date <span class="sort-icon"></span></th>
                             <th data-sort="proposed">Proposed <span class="sort-icon"></span></th>
                             <th data-sort="passed">Passed <span class="sort-icon"></span></th>
