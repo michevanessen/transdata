@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anti-Trans Legislation Tracker 2025</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Anti-Trans Legislation Tracker 2025</h1>
+            <p class="subtitle">Tracking proposed and enacted legislation across the United States</p>
+        </header>
+
+        <nav class="view-toggle">
+            <button class="tab-btn active" data-view="map">Map View</button>
+            <button class="tab-btn" data-view="table">Table View</button>
+        </nav>
+
+        <!-- Map View -->
+        <div id="map-view" class="view-content active">
+            <div class="stats-summary">
+                <div class="stat-card">
+                    <div class="stat-number" id="total-bills">0</div>
+                    <div class="stat-label">Total Bills</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="states-affected">0</div>
+                    <div class="stat-label">States Affected</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="bills-passed">0</div>
+                    <div class="stat-label">Bills Passed</div>
+                </div>
+            </div>
+
+            <div class="map-container">
+                <svg id="us-map" viewBox="0 0 960 600"></svg>
+                <div id="tooltip" class="tooltip"></div>
+            </div>
+
+            <div id="state-detail" class="state-detail hidden">
+                <div class="state-detail-header">
+                    <h2 id="state-name"></h2>
+                    <button id="close-detail" class="close-btn">&times;</button>
+                </div>
+                <div id="state-legislation-list"></div>
+            </div>
+        </div>
+
+        <!-- Table View -->
+        <div id="table-view" class="view-content">
+            <div class="table-controls">
+                <div class="filter-group">
+                    <label for="state-filter">Filter by State:</label>
+                    <select id="state-filter">
+                        <option value="">All States</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="status-filter">Filter by Status:</label>
+                    <select id="status-filter">
+                        <option value="">All</option>
+                        <option value="passed">Passed</option>
+                        <option value="pending">Pending</option>
+                        <option value="denied">Denied/Vetoed</option>
+                    </select>
+                </div>
+                <div class="search-group">
+                    <label for="search-input">Search:</label>
+                    <input type="text" id="search-input" placeholder="Search legislation...">
+                </div>
+            </div>
+
+            <div class="table-wrapper">
+                <table id="legislation-table">
+                    <thead>
+                        <tr>
+                            <th data-sort="legislation">Legislation <span class="sort-icon"></span></th>
+                            <th data-sort="state">State <span class="sort-icon"></span></th>
+                            <th data-sort="date">Date <span class="sort-icon"></span></th>
+                            <th data-sort="proposed">Proposed <span class="sort-icon"></span></th>
+                            <th data-sort="passed">Passed <span class="sort-icon"></span></th>
+                            <th data-sort="denied">Denied <span class="sort-icon"></span></th>
+                            <th data-sort="status">Status Notes <span class="sort-icon"></span></th>
+                        </tr>
+                    </thead>
+                    <tbody id="table-body">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <footer>
+            <p>Last updated: <span id="last-updated"></span></p>
+            <p class="data-source">Data processing and visualization | <a href="anti_trans_legislation_2025_with_dates.xlsx" download>Download Excel</a></p>
+        </footer>
+    </div>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/topojson.v3.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
