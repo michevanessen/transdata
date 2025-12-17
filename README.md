@@ -15,8 +15,7 @@ An interactive web application for tracking proposed and enacted anti-trans legi
 
 ### Map View
 - Interactive US map showing legislation by state
-- Color-coded states based on number of bills
-- Hover tooltips with quick statistics
+- Color-coded states based on number of bills (darker red = more legislation)
 - Click on states to see detailed legislation
 
 ### State Detail View

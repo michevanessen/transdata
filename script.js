@@ -110,8 +110,6 @@ async function initializeMap() {
         'Virginia': 'VA', 'Washington': 'WA', 'West Virginia': 'WV', 'Wisconsin': 'WI', 'Wyoming': 'WY'
     };
 
-    const tooltip = d3.select('#tooltip');
-
     // Draw states
     svg.selectAll('path')
         .data(topojson.feature(us, us.objects.states).features)
@@ -123,32 +121,6 @@ async function initializeMap() {
             const abbr = stateAbbr[d.properties.name];
             const summary = stateSummary[abbr];
             return summary ? colorScale(summary.total) : '#e5e7eb';
-        })
-        .on('mouseover', function(event, d) {
-            const abbr = stateAbbr[d.properties.name];
-            const summary = stateSummary[abbr];
-
-            if (summary) {
-                tooltip.classed('visible', true)
-                    .html(`
-                        <strong>${d.properties.name}</strong>
-                        <div>Total Bills: ${summary.total}</div>
-                        <div>Proposed: ${summary.proposed}</div>
-                        <div>Passed: ${summary.passed}</div>
-                        <div>Denied: ${summary.denied}</div>
-                    `);
-            }
-        })
-        .on('mousemove', function(event, d) {
-            const abbr = stateAbbr[d.properties.name];
-            if (stateSummary[abbr]) {
-                tooltip
-                    .style('left', (event.pageX + 10) + 'px')
-                    .style('top', (event.pageY + 10) + 'px');
-            }
-        })
-        .on('mouseout', function() {
-            tooltip.classed('visible', false);
         })
         .on('click', function(event, d) {
             const abbr = stateAbbr[d.properties.name];
